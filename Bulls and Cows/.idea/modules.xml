@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows-task.iml" group="Bulls_and_Cows1/Bulls_and_Cows-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows-task_main.iml" group="Bulls_and_Cows1/Bulls_and_Cows-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows-task_test.iml" group="Bulls_and_Cows1/Bulls_and_Cows-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls_and_Cows1.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls_and_Cows1.iml" group="Bulls_and_Cows1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Implement compareTo method/Problems-Implement_compareTo_method.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Implement compareTo method/Problems-Implement_compareTo_method.iml" group="Bulls_and_Cows1/Problems-Implement_compareTo_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Implement compareTo method/Problems-Implement_compareTo_method_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Implement compareTo method/Problems-Implement_compareTo_method_main.iml" group="Bulls_and_Cows1/Problems-Implement_compareTo_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Implement compareTo method/Problems-Implement_compareTo_method_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Implement compareTo method/Problems-Implement_compareTo_method_test.iml" group="Bulls_and_Cows1/Problems-Implement_compareTo_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Bulls_and_Cows1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Bulls_and_Cows1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Bulls_and_Cows1/util" />
+    </modules>
+  </component>
+</project>
